@@ -1,0 +1,6 @@
+Recordings/
+*.log
+*.tmp
+*__pycache__/
+*.pyc
+.env
